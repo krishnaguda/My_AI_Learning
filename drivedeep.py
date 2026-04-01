@@ -17,7 +17,7 @@ st.set_page_config(
     page_title="Deep Dive Research",
     page_icon="🔬",
     layout="wide",
-    initial_sidebar_state="collapsed",   # sidebar starts minimised
+    initial_sidebar_state="expanded",    # sidebar visible by default for API keys
 )
 
 
